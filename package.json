@@ -3,10 +3,18 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+<<<<<<< HEAD
     "axios": "^0.19.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "^3.4.0"
+=======
+    "axios": "^0.19.0",
+    "core-js": "^3.6.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "^3.3.0"
+>>>>>>> 5eb09bc0d910bb1294e12d1d0a2f948b3b230c66
   },
   "scripts": {
     "start": "react-scripts start",
